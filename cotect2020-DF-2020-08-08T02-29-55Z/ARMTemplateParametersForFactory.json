@@ -1,0 +1,18 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "cotect2020-DF-2020-08-08T02-29-55Z"
+		},
+		"integrationRuntime1_properties_typeProperties_ssisProperties_catalogInfo_catalogServerEndpoint": {
+			"value": "cotect2020.database.windows.net"
+		},
+		"integrationRuntime1_properties_typeProperties_ssisProperties_catalogInfo_catalogAdminUserName": {
+			"value": "alex"
+		},
+		"integrationRuntime1_properties_typeProperties_ssisProperties_catalogInfo_catalogAdminPassword": {
+			"value": ""
+		}
+	}
+}
